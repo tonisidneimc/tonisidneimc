@@ -43,7 +43,11 @@
 
 <p align="center">
 <a href="https://github.com/tonisidneimc?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=tonisidneimc&theme=dracula&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@tonisidneimc's github-readme-stats"/></a>
-<a href="https://github.com/tonisidneimc?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonisidneimc&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@tonisidneimc's github-readme-streak-stats"/></a>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonisidneimc&layout=compact&theme=dracula&hide_border=true"
+</p>
+
+<p align="center">
+  <a href="https://github.com/tonisidneimc?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonisidneimc&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@tonisidneimc's github-readme-streak-stats"/></a>
 </p>
 
 <!-- <p align="center">
