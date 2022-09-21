@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antônio Sidnei</h1>  
 <h3 align="center">A Computer Science Undergraduate Student and Passionate Low-Level Developer.</h3>  
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonisidneimc&label=Profile%20views&color=0e75b6&style=flat" alt="tonisidneimc" /> </p>  
   
@@ -32,14 +32,19 @@
 </a>
 </p> -->
 
-<br/>
+<!-- <br/>
 <p align="left">
   <a href="https://github.com/tonisidneimc">
   <img width="49.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=tonisidneimc&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />&nbsp;
     <img width="49.5%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tonisidneimc&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </p>
-<br>
+<br> -->
+
+<p align="center">
+<a href="https://github.com/tonisidneimc?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=tonisidneimc&theme=dracula&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@tonisidneimc's github-readme-stats"/></a>
+<a href="https://github.com/tonisidneimc?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=tonisidneimc&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@tonisidneimc's github-readme-streak-stats"/></a>
+</p>
 
 <!-- <p align="center">
 <a href="https://github.com/tonisidneimc">
